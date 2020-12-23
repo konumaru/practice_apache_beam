@@ -43,10 +43,10 @@ $ python step02_dataflow_processing.py
 ```
 
 ### Step 3, ローカル環境でストリームデータを処理
-
+[サンプルデータ](https://github.com/GoogleCloudPlatform/data-science-on-gcp/blob/master/04_streaming/simulate/airports.csv.gz)を利用
 
 ### Step 4, Google Cloud Dataflowでストリームデータを処理
-[サンプルデータ](https://github.com/GoogleCloudPlatform/data-science-on-gcp/blob/master/04_streaming/simulate/airports.csv.gz)を利用
+
 
 
 ### Optional, Pipelineのテスト豊富
