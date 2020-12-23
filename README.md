@@ -11,6 +11,20 @@ Pythonをつかって Apache Beam に慣れるための Repository
 
 ## Practices
 ### Step 1, ローカル環境でテキストデータを処理
+Execute Command
+```
+$ python step01_local_processing.py \
+    --input ../data/step01/input.txt \
+    --output ../data/step01/output.txt
+```
+
+下記のようなtextファイルを読み込み、各行の文字列の長さを出力する
+
+```input.txt
+good morning.
+good afternoon.
+good evening.
+```
 
 
 ### Step 2, Google Cloud Dataflowでテキストデータを処理
