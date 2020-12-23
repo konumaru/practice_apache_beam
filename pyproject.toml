@@ -8,7 +8,7 @@ authors = ["konumaru <konumaru1022@gmail.com>"]
 python = "^3.8"
 numpy = "^1.19.4"
 pandas = "^1.1.5"
-apache-beam = "^2.26.0"
+apache-beam = {version = "^2.26.0", extras = ["gcp"]}
 
 [tool.poetry.dev-dependencies]
 flake8 = "^3.8.4"
