@@ -5,9 +5,7 @@ Pythonをつかって Apache Beam に慣れるための Repository
 
 ## Environment
 
-- python version, 3.8.3
-- Package Manegemant Tool, poetry
-- Loading environment variables, direnv
+python 3.8.3, poetry, direnv
 
 
 ## Practices
